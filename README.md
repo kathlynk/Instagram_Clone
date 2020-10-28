@@ -28,12 +28,15 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Allow for a new user to sign up and take a picture.
+
 <img src='https://github.com/anizhou/Instagram_Clone/blob/master/instagram_clone1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 The timestamps for the creation of the new user as well as the post matches thus proving a new user was created.
+
 <img src='https://github.com/anizhou/Instagram_Clone/blob/master/instagram_clone_parse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Allows the newly created user to login normally, close the app, and still be signed in when restarting the app again. User can also logout.
+
 <img src='https://github.com/anizhou/Instagram_Clone/blob/master/instagram_clone1.5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
